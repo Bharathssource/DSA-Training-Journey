@@ -22,7 +22,7 @@ Problems are organized by pattern:
   Progress Tracker
 | Pattern | Problems Solved |
 |---------|-----------------|
-| Arrays | 4 |
+| Arrays | 6 |
 | Hashing | 0 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
